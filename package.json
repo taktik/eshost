@@ -27,6 +27,7 @@
     "selenium-webdriver": "^4.0.0-alpha.1",
     "server-destroy": "^1.0.1",
     "socket.io": "^1.3.7",
+    "evaljs":"git+https://isaacs@github.com/taktik/evaljs.git",
     "unique-temp-dir": "^1.0.0"
   },
   "homepage": "https://github.com/bterlson/eshost"
